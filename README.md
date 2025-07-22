@@ -1,4 +1,4 @@
-Uplimit Course: Building AI Products with Open AI
+Building AI Products with Open AI
 
 Course Outline:
 
