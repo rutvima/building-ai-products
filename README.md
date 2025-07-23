@@ -1,4 +1,4 @@
-** Building AI Products with Open AI!**
+# Building AI Products with Open AI!
 
 In this three-week course you’ll explore the fundamentals of generative AI models and hands‑on methods. 
 - **Week 1** covers Large Language Models (LLMs), ChatGPT, text‑generation strategies and prompt design.
